@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.paas.blog",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.4.2",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "com.paas.blog",
+    "packageFolder": "com/paas/blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2EwYTc3YTgxMzEyNTJjNTJkYmZkMGI2NWYyNjEzYTBlY2M1NGM4MzAyOWU0N2NkYTJmMmFmOTA3YTc3OThhN2Y0NjQzNDdkYjgwZWVkMGY4ZTYwOTZkMzIyY2ZhNGRhMjRlM2JhMTA4MTUwZjIwZWM3MWU3Zjk4YWUyNzE3MjU=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn"
+    ]
+  }
+}
